@@ -1,0 +1,25 @@
+From 715e3d5375018e3d25688b406e11f5a0dc32deb2 Mon Sep 17 00:00:00 2001
+From: "DESKTOP-F6RU4LD\\Oneshot" <gonzalezac1992@gmail.com>
+Date: Thu, 28 Jun 2018 16:24:13 +0200
+Subject: [PATCH] dsaddtercerpull
+
+---
+ blabla.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/blabla.txt b/blabla.txt
+index 3ea9897..37785ae 100644
+--- a/blabla.txt
++++ b/blabla.txt
+@@ -4,4 +4,5 @@
+ 666666666666666666
+ hola
+ 2323
+-dddddd
+\ No newline at end of file
++dddddd
++helloelelel
+\ No newline at end of file
+-- 
+2.16.2.windows.1
+
