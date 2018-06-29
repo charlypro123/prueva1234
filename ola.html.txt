@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 jijijiji and jojo and juju
+=======
+jijijiji and jojo and juju  and jejeje
+>>>>>>> segundarama
