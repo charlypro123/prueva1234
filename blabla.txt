@@ -6,5 +6,3 @@ hola
 2323
 dddddd
 +blablabla
-antigualinea
-antigualinea2.0
