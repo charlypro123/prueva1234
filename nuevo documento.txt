@@ -5,4 +5,3 @@ ara si k si
 añado nuevo
 nuevalinea
 antigualinea2.0.1
-nueva linea2.0.1
